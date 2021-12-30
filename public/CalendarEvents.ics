@@ -1,6 +1,1 @@
-(function(arch) {
-    axios({
-        method: 'GET',
-        url: window.location.href = 'https://lmunoz8612.github.io/calendar/CalendarEvents.ics'
-    })
-})();
+https://lmunoz8612.github.io/calendar/Calendar.ics'
