@@ -1,3 +1,3 @@
 header("Content-Type: text/Calendar; charset=utf-8");
-header("Content-Disposition: inline; filename={$slug}.ics");
+header("Content-Disposition: inline; filename="https://lmunoz8612.github.io/calendar/public/Events.ics");
 header("HTTP/1.0 200 OK", true, 200);
