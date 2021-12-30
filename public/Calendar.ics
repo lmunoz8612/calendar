@@ -1,3 +1,3 @@
-Content-Type: text/html; charset=utf-8
-Content-Disposition: attachment; filename="https://lmunoz8612.github.io/calendar/public/Events.ics"
-<HTML>Guárdame!</HTML>
+header("Content-Type: text/Calendar; charset=utf-8");
+header("Content-Disposition: inline; filename={$slug}.ics");
+header("HTTP/1.0 200 OK", true, 200);
