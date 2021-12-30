@@ -1,12 +1,5 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-NAME:Calendario de Eventos
-X-WR-CALNAME:Calendario de Eventos
-PRODID:-//Luis Muñoz
-METHOD:PUBLISH
-ATTENDEE;CN=My Self ;RSVP=TRUE:MAILTO:lvmunozf@outlook.com
-ORGANIZER;CN=Me:MAILTO:lvmunozf@outlook.com
-REFRESH-INTERVAL;VALUE=DURATION:PT2H
 BEGIN:VEVENT
 UID:lvmunozf@outlook.com
 ATTENDEE;CN=My Self ;RSVP=TRUE:MAILTO:lvmunozf@outlook.com
