@@ -216,8 +216,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20210701T225801Z
 UID:JT7315594@addevent.com
-DTSTART;TZID=America/Los_Angeles:20211231T090000
-DTEND;TZID=America/Los_Angeles:20211231T110000
+DTSTART;TZID=America/Los_Angeles:20210728T090000
+DTEND;TZID=America/Los_Angeles:20210728T110000
 SUMMARY:🚀 Product Launch
 DESCRIPTION:This is going to be the product launch of all product launches!
 X-ALT-DESC;FMTTYPE=text/html:This is going to be the product launch of all product launches!
@@ -233,10 +233,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211231T232329Z
+DTSTAMP:20211215T232329Z
 UID:fc10822356@addevent.com
-DTSTART;TZID=America/Los_Angeles:20211231T113000
-DTEND;TZID=America/Los_Angeles:20211231T123000
+DTSTART;TZID=America/Los_Angeles:20211222T113000
+DTEND;TZID=America/Los_Angeles:20211222T123000
 SUMMARY:🍲 Company lunch
 DESCRIPTION:Come grab a free lunch and eat with your coworkers!
 X-ALT-DESC;FMTTYPE=text/html:Come grab a free lunch and eat with your coworkers!
